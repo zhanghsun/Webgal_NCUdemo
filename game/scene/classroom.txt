@@ -1,0 +1,2 @@
+
+intro:這是教室，小花就在我的後桌 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
